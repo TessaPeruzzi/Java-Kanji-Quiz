@@ -1,0 +1,237 @@
+食べもの
+tabemono
+food
+飲みもの
+nomimono
+drink
+東
+higashi
+east
+西
+nishi
+west
+南
+minami
+south
+北
+kita
+north
+右
+migi
+right
+左
+hidari
+left
+先生
+sensee
+teacher
+大学生
+daigakusee
+college student
+学生
+gakusee
+student
+外国
+gaikoku
+foreign country
+東京
+toukyou
+Tokyo
+子ども
+kodomo
+child
+会社
+kaisha
+company
+社会
+shakai
+society
+会社買
+kaishain
+office worker
+高校
+koukou
+high school
+毎年
+maitoshi
+every year
+日本語
+nihongo
+japanese
+文学
+bungaku
+literature
+作文
+sakubun
+composition
+帰国
+kikoku
+going home
+入口
+iriguchi
+entrance
+会員
+kaiin
+member
+新聞
+shinbun
+newspaper
+聞く
+kiku
+to listen
+作る
+tsukuru
+to make
+仕事
+shigoto
+job
+事
+koto
+thing
+食事
+shokuji
+meal
+電車
+densha
+train
+電気
+denki
+electricity
+電話
+denwa
+telephone
+車
+kuruma
+car
+休み
+yasumi
+holiday
+言語学
+gengogaku
+linguistics
+読む
+yomu
+to read
+思い出す
+omoidasu
+to remember
+次女
+jijo
+second daughter
+何時
+nanji
+what time
+午後
+gogo
+PM
+午前
+gozen
+AM
+後で
+atode
+later
+名前
+namae
+name
+雨
+ame
+rain
+書く
+kaku
+to write
+友だち
+tomodachi
+friend
+友人
+yuujin
+friend
+時間
+jikan
+time
+人間
+ningen
+human
+家
+ie
+house
+少ない
+sukunai
+few
+少々
+shoushou
+a little
+中古
+chuuko
+second hand
+知る
+shiru
+to know
+知人
+chijin
+acquaintance
+来る
+kuru
+to come
+来日
+rainichi
+visit to Japan
+住む
+sumu
+to live
+お正月
+oshougatsu
+New Year
+正午
+shougo
+noon
+今年
+kotoshi
+this year
+売る
+uru
+to sell
+買う
+kau
+to buy
+町
+machi
+town
+町長
+chouchou
+mayor
+長い
+nagai
+long
+長男
+chounan
+eldest son
+道
+michi
+road
+書道
+shodou
+calligraphy
+雪
+yuki
+snow
+自分
+jibun
+oneself
+夜
+yoru
+night
+朝
+asa
+morning
+朝食
+choushoku
+breakfast
+持つ
+motsu
+to hold
+気持ち
+kimochi
+feeling
+持ってくる
+mottekuru
+to bring
